@@ -1,0 +1,27 @@
+.ilknumara{
+    color:rgb(9, 168, 231) ;
+    text-align:center;
+ }
+ .altbaslik{
+     color:rgb(37, 8, 225);
+     text-align:center;
+ }
+ .listebaslik{
+     color:rgb(9, 202, 19);
+     text-align:center;
+ }
+ .baglantı{
+     text-align:center;
+ }
+ .liste{
+     list-style-position: inside ;
+     text-align:center;
+ }
+ .resim{
+     max-width: 180px;
+     height: auto;
+ }
+ .baslik2{
+     color:rgb(204, 136, 10);
+ }
+ 
